@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COVID-19 Tracker
 
 The project uses an api from 'https://covid19.mathdro.id/api' to render the total number of COVID19 cases globally as well
@@ -80,3 +81,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Covid_news
+I have used a API and fetch the live data regarding the numbers of cases worldwide and in different countries and make a proper User-interface with JSX.
+Make it During my free time to do practice for JSX.
+>>>>>>> a62f853cfcd478fa59cef59278c02f6f529fa632
